@@ -134,6 +134,3 @@ Provides **wireless connectivity**.
 - **IPS**: Blocks malicious activity in real time.  
 
 ---
-
-This document enhances your networking knowledge with visuals and easy-to-read formatting. 🚀💻
-
